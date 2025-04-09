@@ -1,5 +1,5 @@
 - Hi, I am Ruizhe.
-- I am interested in theoretical aspects of machine learning.
+- I am interested in theoretical aspects of modern machine learning.
 
 <!--
 **srzer/srzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
